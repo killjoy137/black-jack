@@ -1,0 +1,28 @@
+body {
+    background-color: green
+    
+    
+}
+
+p{color: blue;}
+
+p{font-family:"arial"}
+
+.pics {
+    background-color: green;
+    color; blue;
+    
+    
+}
+a:link, a:visited {
+    background-color: blue;
+    color: black;
+    padding: 14px 25px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover, a:active {
+    background-color:green ;
+}
